@@ -1,0 +1,657 @@
+Top team for 'Median of Games':
+Nott'ham Forest
+
+Top team for 'Mean of Games':
+Liverpool
+
+Top team for 'Std of Games':
+Manchester Utd
+
+Top team for 'Median of Games_starts':
+Brentford
+
+Top team for 'Mean of Games_starts':
+Brentford
+
+Top team for 'Std of Games_starts':
+Brentford
+
+Top team for 'Median of Minutes':
+Brentford
+
+Top team for 'Mean of Minutes':
+Liverpool
+
+Top team for 'Std of Minutes':
+Brentford
+
+Top team for 'Median of Goals':
+Arsenal
+
+Top team for 'Mean of Goals':
+Liverpool
+
+Top team for 'Std of Goals':
+Liverpool
+
+Top team for 'Median of Assists':
+Brentford
+
+Top team for 'Mean of Assists':
+Liverpool
+
+Top team for 'Std of Assists':
+Liverpool
+
+Top team for 'Median of Cards_yellow':
+Bournemouth
+
+Top team for 'Mean of Cards_yellow':
+Bournemouth
+
+Top team for 'Std of Cards_yellow':
+Crystal Palace
+
+Top team for 'Median of Cards_red':
+All
+
+Top team for 'Mean of Cards_red':
+Arsenal
+
+Top team for 'Std of Cards_red':
+Arsenal
+
+Top team for 'Median of Xg':
+Liverpool
+
+Top team for 'Mean of Xg':
+Liverpool
+
+Top team for 'Std of Xg':
+Liverpool
+
+Top team for 'Median of Xg_assist':
+Manchester City
+
+Top team for 'Mean of Xg_assist':
+Liverpool
+
+Top team for 'Std of Xg_assist':
+Liverpool
+
+Top team for 'Median of Progressive_carries':
+Manchester City
+
+Top team for 'Mean of Progressive_carries':
+Manchester City
+
+Top team for 'Std of Progressive_carries':
+Manchester City
+
+Top team for 'Median of Progressive_passes':
+Liverpool
+
+Top team for 'Mean of Progressive_passes':
+Liverpool
+
+Top team for 'Std of Progressive_passes':
+Liverpool
+
+Top team for 'Median of Progressive_passes_received':
+Liverpool
+
+Top team for 'Mean of Progressive_passes_received':
+Liverpool
+
+Top team for 'Std of Progressive_passes_received':
+Liverpool
+
+Top team for 'Median of Goals_per90':
+Arsenal
+
+Top team for 'Mean of Goals_per90':
+Aston Villa
+
+Top team for 'Std of Goals_per90':
+Aston Villa
+
+Top team for 'Median of Assists_per90':
+Liverpool
+
+Top team for 'Mean of Assists_per90':
+Liverpool
+
+Top team for 'Std of Assists_per90':
+Chelsea
+
+Top team for 'Median of Xg_per90':
+Newcastle Utd
+
+Top team for 'Mean of Xg_per90':
+Aston Villa
+
+Top team for 'Std of Xg_per90':
+Aston Villa
+
+Top team for 'Median of Xg_assist_per90':
+Crystal Palace
+
+Top team for 'Mean of Xg_assist_per90':
+Chelsea
+
+Top team for 'Std of Xg_assist_per90':
+Chelsea
+
+Top team for 'Median of Gk_goals_against_per90':
+Manchester Utd
+
+Top team for 'Mean of Gk_goals_against_per90':
+Manchester Utd
+
+Top team for 'Std of Gk_goals_against_per90':
+Manchester Utd
+
+Top team for 'Median of Gk_save_pct':
+Bournemouth
+
+Top team for 'Mean of Gk_save_pct':
+Bournemouth
+
+Top team for 'Std of Gk_save_pct':
+Manchester Utd
+
+Top team for 'Median of Gk_clean_sheet_pct':
+All
+
+Top team for 'Mean of Gk_clean_sheet_pct':
+All
+
+Top team for 'Std of Gk_clean_sheet_pct':
+All
+
+Top team for 'Median of Gk_pens_save_pct':
+Everton
+
+Top team for 'Mean of Gk_pens_save_pct':
+Everton
+
+Top team for 'Std of Gk_pens_save_pct':
+Liverpool
+
+Top team for 'Median of Shots_on_target_pct':
+Nott'ham Forest
+
+Top team for 'Mean of Shots_on_target_pct':
+Nott'ham Forest
+
+Top team for 'Std of Shots_on_target_pct':
+Nott'ham Forest
+
+Top team for 'Median of Shots_per90':
+Fulham
+
+Top team for 'Mean of Shots_per90':
+Bournemouth
+
+Top team for 'Std of Shots_per90':
+Bournemouth
+
+Top team for 'Median of Goals_per_shot':
+Arsenal
+
+Top team for 'Mean of Goals_per_shot':
+Arsenal
+
+Top team for 'Std of Goals_per_shot':
+Manchester City
+
+Top team for 'Median of Average_shot_distance':
+Nott'ham Forest
+
+Top team for 'Mean of Average_shot_distance':
+Nott'ham Forest
+
+Top team for 'Std of Average_shot_distance':
+Nott'ham Forest
+
+Top team for 'Median of Passes_completed':
+Tottenham
+
+Top team for 'Mean of Passes_completed':
+Liverpool
+
+Top team for 'Std of Passes_completed':
+Liverpool
+
+Top team for 'Median of Passes_pct':
+Manchester City
+
+Top team for 'Mean of Passes_pct':
+Manchester City
+
+Top team for 'Std of Passes_pct':
+Wolves
+
+Top team for 'Median of Passes_total_distance':
+Fulham
+
+Top team for 'Mean of Passes_total_distance':
+Liverpool
+
+Top team for 'Std of Passes_total_distance':
+Liverpool
+
+Top team for 'Median of Passes_pct_short':
+Manchester City
+
+Top team for 'Mean of Passes_pct_short':
+Manchester City
+
+Top team for 'Std of Passes_pct_short':
+Nott'ham Forest
+
+Top team for 'Median of Passes_pct_medium':
+Manchester City
+
+Top team for 'Mean of Passes_pct_medium':
+Manchester City
+
+Top team for 'Std of Passes_pct_medium':
+Everton
+
+Top team for 'Median of Passes_pct_long':
+Manchester City
+
+Top team for 'Mean of Passes_pct_long':
+Liverpool
+
+Top team for 'Std of Passes_pct_long':
+Manchester Utd
+
+Top team for 'Median of Assisted_shots':
+Liverpool
+
+Top team for 'Mean of Assisted_shots':
+Liverpool
+
+Top team for 'Std of Assisted_shots':
+Liverpool
+
+Top team for 'Median of Passes_into_final_third':
+Fulham
+
+Top team for 'Mean of Passes_into_final_third':
+Liverpool
+
+Top team for 'Std of Passes_into_final_third':
+Liverpool
+
+Top team for 'Median of Passes_into_penalty_area':
+Manchester City
+
+Top team for 'Mean of Passes_into_penalty_area':
+Liverpool
+
+Top team for 'Std of Passes_into_penalty_area':
+Liverpool
+
+Top team for 'Median of Crosses_into_penalty_area':
+Fulham
+
+Top team for 'Mean of Crosses_into_penalty_area':
+Fulham
+
+Top team for 'Std of Crosses_into_penalty_area':
+Fulham
+
+Top team for 'Median of Progressive_passes.1':
+Liverpool
+
+Top team for 'Mean of Progressive_passes.1':
+Liverpool
+
+Top team for 'Std of Progressive_passes.1':
+Liverpool
+
+Top team for 'Median of Sca':
+Liverpool
+
+Top team for 'Mean of Sca':
+Liverpool
+
+Top team for 'Std of Sca':
+Chelsea
+
+Top team for 'Median of Sca_per90':
+Brighton
+
+Top team for 'Mean of Sca_per90':
+Liverpool
+
+Top team for 'Std of Sca_per90':
+Bournemouth
+
+Top team for 'Median of Gca':
+Liverpool
+
+Top team for 'Mean of Gca':
+Liverpool
+
+Top team for 'Std of Gca':
+Liverpool
+
+Top team for 'Median of Gca_per90':
+Liverpool
+
+Top team for 'Mean of Gca_per90':
+Liverpool
+
+Top team for 'Std of Gca_per90':
+Arsenal
+
+Top team for 'Median of Tackles':
+Everton
+
+Top team for 'Mean of Tackles':
+Crystal Palace
+
+Top team for 'Std of Tackles':
+Crystal Palace
+
+Top team for 'Median of Tackles_won':
+Brentford
+
+Top team for 'Mean of Tackles_won':
+Crystal Palace
+
+Top team for 'Std of Tackles_won':
+Crystal Palace
+
+Top team for 'Median of Challenge_tackles':
+Everton
+
+Top team for 'Mean of Challenge_tackles':
+Liverpool
+
+Top team for 'Std of Challenge_tackles':
+Liverpool
+
+Top team for 'Median of Challenges_lost':
+Crystal Palace
+
+Top team for 'Mean of Challenges_lost':
+Crystal Palace
+
+Top team for 'Std of Challenges_lost':
+Liverpool
+
+Top team for 'Median of Blocks':
+West Ham
+
+Top team for 'Mean of Blocks':
+Brentford
+
+Top team for 'Std of Blocks':
+Brentford
+
+Top team for 'Median of Blocked_shots':
+Tottenham
+
+Top team for 'Mean of Blocked_shots':
+Brentford
+
+Top team for 'Std of Blocked_shots':
+Brentford
+
+Top team for 'Median of Blocked_passes':
+Crystal Palace
+
+Top team for 'Mean of Blocked_passes':
+Crystal Palace
+
+Top team for 'Std of Blocked_passes':
+Crystal Palace
+
+Top team for 'Median of Interceptions':
+Nott'ham Forest
+
+Top team for 'Mean of Interceptions':
+Bournemouth
+
+Top team for 'Std of Interceptions':
+Liverpool
+
+Top team for 'Median of Touches':
+Fulham
+
+Top team for 'Mean of Touches':
+Liverpool
+
+Top team for 'Std of Touches':
+Liverpool
+
+Top team for 'Median of Touches_def_pen_area':
+Tottenham
+
+Top team for 'Mean of Touches_def_pen_area':
+Brentford
+
+Top team for 'Std of Touches_def_pen_area':
+Brentford
+
+Top team for 'Median of Touches_def_3rd':
+Wolves
+
+Top team for 'Mean of Touches_def_3rd':
+Brentford
+
+Top team for 'Std of Touches_def_3rd':
+Brentford
+
+Top team for 'Median of Touches_mid_3rd':
+Tottenham
+
+Top team for 'Mean of Touches_mid_3rd':
+Liverpool
+
+Top team for 'Std of Touches_mid_3rd':
+Liverpool
+
+Top team for 'Median of Touches_att_3rd':
+Manchester City
+
+Top team for 'Mean of Touches_att_3rd':
+Manchester City
+
+Top team for 'Std of Touches_att_3rd':
+Liverpool
+
+Top team for 'Median of Touches_att_pen_area':
+Liverpool
+
+Top team for 'Mean of Touches_att_pen_area':
+Liverpool
+
+Top team for 'Std of Touches_att_pen_area':
+Liverpool
+
+Top team for 'Median of Take_ons':
+Arsenal
+
+Top team for 'Mean of Take_ons':
+West Ham
+
+Top team for 'Std of Take_ons':
+West Ham
+
+Top team for 'Median of Take_ons_won_pct':
+Liverpool
+
+Top team for 'Mean of Take_ons_won_pct':
+Liverpool
+
+Top team for 'Std of Take_ons_won_pct':
+Manchester Utd
+
+Top team for 'Median of Take_ons_tackled_pct':
+Manchester Utd
+
+Top team for 'Mean of Take_ons_tackled_pct':
+Leicester City
+
+Top team for 'Std of Take_ons_tackled_pct':
+Southampton
+
+Top team for 'Median of Carries':
+Manchester City
+
+Top team for 'Mean of Carries':
+Manchester City
+
+Top team for 'Std of Carries':
+Manchester City
+
+Top team for 'Median of Carries_progressive_distance':
+Manchester City
+
+Top team for 'Mean of Carries_progressive_distance':
+Manchester City
+
+Top team for 'Std of Carries_progressive_distance':
+Manchester City
+
+Top team for 'Median of Progressive_carries.1':
+Manchester City
+
+Top team for 'Mean of Progressive_carries.1':
+Manchester City
+
+Top team for 'Std of Progressive_carries.1':
+Manchester City
+
+Top team for 'Median of Carries_into_final_third':
+Manchester City
+
+Top team for 'Mean of Carries_into_final_third':
+Manchester City
+
+Top team for 'Std of Carries_into_final_third':
+Manchester City
+
+Top team for 'Median of Carries_into_penalty_area':
+Liverpool
+
+Top team for 'Mean of Carries_into_penalty_area':
+Manchester City
+
+Top team for 'Std of Carries_into_penalty_area':
+Liverpool
+
+Top team for 'Median of Miscontrols':
+Liverpool
+
+Top team for 'Mean of Miscontrols':
+Bournemouth
+
+Top team for 'Std of Miscontrols':
+Brentford
+
+Top team for 'Median of Dispossessed':
+Crystal Palace
+
+Top team for 'Mean of Dispossessed':
+Newcastle Utd
+
+Top team for 'Std of Dispossessed':
+West Ham
+
+Top team for 'Median of Passes_received':
+Fulham
+
+Top team for 'Mean of Passes_received':
+Liverpool
+
+Top team for 'Std of Passes_received':
+Liverpool
+
+Top team for 'Median of Progressive_passes_received.1':
+Liverpool
+
+Top team for 'Mean of Progressive_passes_received.1':
+Liverpool
+
+Top team for 'Std of Progressive_passes_received.1':
+Liverpool
+
+Top team for 'Median of Fouls':
+West Ham
+
+Top team for 'Mean of Fouls':
+Bournemouth
+
+Top team for 'Std of Fouls':
+Bournemouth
+
+Top team for 'Median of Fouled':
+Crystal Palace
+
+Top team for 'Mean of Fouled':
+Newcastle Utd
+
+Top team for 'Std of Fouled':
+Newcastle Utd
+
+Top team for 'Median of Offsides':
+Arsenal
+
+Top team for 'Mean of Offsides':
+Nott'ham Forest
+
+Top team for 'Std of Offsides':
+Everton
+
+Top team for 'Median of Crosses':
+Fulham
+
+Top team for 'Mean of Crosses':
+Fulham
+
+Top team for 'Std of Crosses':
+Fulham
+
+Top team for 'Median of Ball_recoveries':
+Liverpool
+
+Top team for 'Mean of Ball_recoveries':
+Bournemouth
+
+Top team for 'Std of Ball_recoveries':
+Newcastle Utd
+
+Top team for 'Median of Aerials_won':
+Bournemouth
+
+Top team for 'Mean of Aerials_won':
+Brentford
+
+Top team for 'Std of Aerials_won':
+Brentford
+
+Top team for 'Median of Aerials_lost':
+Bournemouth
+
+Top team for 'Mean of Aerials_lost':
+Crystal Palace
+
+Top team for 'Std of Aerials_lost':
+Nott'ham Forest
+
+Top team for 'Median of Aerials_won_pct':
+Brentford
+
+Top team for 'Mean of Aerials_won_pct':
+Brentford
+
+Top team for 'Std of Aerials_won_pct':
+Ipswich Town
+
