@@ -52,5 +52,5 @@ importance_df = pd.DataFrame({
 }).sort_values(by='Importance', ascending=False)
 
 print("\nTop đặc trưng ảnh hưởng đến giá trị cầu thủ:")
-with open("Anh_huong_cua_thong_so_toi_gia_chuyen_nhuong.txt") as last_file:
+with open("Anh_huong_cua_thong_so_toi_gia_chuyen_nhuong.txt",'w',encoding="utf-8") as last_file:
     print(f'{importance_df.to_string(index=False)}\n',file = last_file)
